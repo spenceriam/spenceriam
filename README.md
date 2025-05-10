@@ -66,24 +66,6 @@ Currently, I'm focused on building human-centric products and designs that bridg
 
 ## 🔮 About My Maker Journey
 
-```
-      .-.                                                                 
-     /   \                                     .-.                        
-    |     |                                   /   \           .-.         
-     \   /                                   |     |         /   \        
-      `-'     .-.                             \   /         |     |       
-             /   \            .-.              `-'     .-.   \   /        
-            |     |          /   \                    /   \   `-'         
-             \   /          |     |                  |     |              
-              `-'    .-.     \   /       .-.          \   /               
-   .-.              /   \     `-'       /   \          `-'                
-  /   \            |     |             |     |                .-.         
- |     |            \   /               \   /                /   \        
-  \   /              `-'                 `-'                |     |       
-   `-'          Technology to Creativity Pipeline           \   /         
-                                                             `-'          
-```
-
 I thrive at the intersection of technology and creativity, using digital tools to bring ideas into the physical world and connecting humans with the technologies that empower them.
 
 ## 📫 Connect With Me
