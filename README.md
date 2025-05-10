@@ -81,66 +81,7 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 "Things are only impossible until they're not." - Captain Jean-Luc Picard
 
+</div>
 <!--
 **spenceriam/spenceriam** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
-
-</div>
-
-## 🎮 ASCII Runner
-<details>
-<summary>🏃 Play a mini infinite runner! (click to expand)</summary>
-
-## ASCII RUNNER
-
-```
-==================================================================================
-                                                                                 
-                    🏃                                              🌵            
-==================================================================================
-```
-
-<div align="center">
-  <i>A retro infinite runner where you must jump over obstacles!</i><br><br>
-  <b>HOW TO PLAY:</b> Click the buttons below to make the runner jump and avoid obstacles.
-</div>
-
-<div id="game-container" align="center">
-  <div id="game-score">SCORE: 0</div>
-  <div id="game-over" style="display:none;">GAME OVER! Final Score: <span id="final-score">0</span></div>
-  <table>
-    <tr>
-      <td><a href="javascript:void(0)" onclick="jumpPlayer()"><b>JUMP!</b></a></td>
-      <td><a href="javascript:void(0)" onclick="resetGame()"><b>RESTART</b></a></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <i>Note: This is a conceptual game representation. For the full interactive experience, check out my actual game projects listed above!</i>
-</div>
-
-```
-TIPS:
-- Time your jumps carefully
-- Watch for cacti, rocks and birds
-- Higher score = more obstacles!
-```
-
-<script type="text/javascript">
-// This script would handle the game mechanics
-// GitHub READMEs don't support JavaScript execution,
-// but this gives an idea of how the game would work!
-
-function jumpPlayer() {
-  // Would animate the player jumping
-  console.log("Player jumped!");
-}
-
-function resetGame() {
-  // Would reset the game state
-  console.log("Game reset!");
-}
-</script>
-
-</details>
