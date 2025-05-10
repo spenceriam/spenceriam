@@ -1,14 +1,6 @@
-# <div align="center">👋 Welcome to Spencer's Creative Tech Hub 👋</div>
+# <div align="center">👋 Hello World 👋</div>
 
 <div align="center">
-  
-```
- _____                                  _____                      _           
-|   __|___ ___ ___ ___ ___ ___ ___    |   __|___ ___ ___ ___ ___ |_|___ ___  
-|__   |  _| -_|   |  _| -_|  _|   |_  |   __|  _| .'|   |  _| . | |   | . |  
-|_____|___|___|_|_|___|___|_| |_|_|_|_|__|  |_| |__,|_|_|___|___|_|_|_|___|  
-                                                                              
-```
 
 [![Version: 37](https://img.shields.io/badge/Version-37-blue?style=for-the-badge)](https://github.com/spenceriam)
 [![Role: Creator](https://img.shields.io/badge/Role-Creator-orange?style=for-the-badge)](https://github.com/spenceriam)
