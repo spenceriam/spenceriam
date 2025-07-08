@@ -11,7 +11,7 @@
 
 ## 🧙‍♂️ Who Am I?
 
-Forbidden knowledge collector and digital alchemist. I turn coffee into code, ideas into objects, and free time into debugging sessions. Enter at your own risk.
+I thrive at the intersection of technology and creativity, using digital tools to bring ideas into the physical world and connecting humans with the technologies that empower them.
 
 <div align="center">
   
@@ -60,10 +60,6 @@ Forbidden knowledge collector and digital alchemist. I turn coffee into code, id
 ![Klingon](https://img.shields.io/badge/Klingon-BA0C2F?style=flat-square)
 
 </div>
-
-## 🔮 About My Maker Journey
-
-I thrive at the intersection of technology and creativity, using digital tools to bring ideas into the physical world and connecting humans with the technologies that empower them.
 
 ## 📫 Connect With Me
 
