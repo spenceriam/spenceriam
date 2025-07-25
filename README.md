@@ -23,14 +23,14 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 <table>
   <tr>
-    <td><b>🌈 Project Prism</b></td>
-    <td><b>🍔 Num-Nom-Dash</b></td>
-    <td><b>😺 Meowgenda</b></td>
+    <td><b>📝 Spec2Dev</b></td>
+    <td><b>🏋️ Express Circuit</b></td>
+    <td><b>🗺️ AtlasDraft</b></td>
   </tr>
   <tr>
-    <td><b>📱 OpenWebUI-IOS</b></td>
+    <td><b>🧵 Fila-manager</b></td>
     <td><b>🕸️ Spencer-Web</b></td>
-    <td><b>🦁 Lion Mystic Landing</b></td>
+    <td><b>🦁 Lion Mystic</b></td>
   </tr>
 </table>
 
@@ -40,10 +40,10 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Windsurf](https://img.shields.io/badge/Windsurf-2B9EBC?style=flat-square)
-![Augment Code](https://img.shields.io/badge/Augment%20Code-6610f2?style=flat-square)
+![Warp.dev](https://img.shields.io/badge/Warp-6610f2?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-3D4599?style=flat-square)
 ![Von.dev](https://img.shields.io/badge/Von.dev-000000?style=flat-square)
-![v0.dev](https://img.shields.io/badge/v0.dev-FF5733?style=flat-square)
+![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF5733?style=flat-square)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-FFA500?style=flat-square)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-FF0000?style=flat-square)
