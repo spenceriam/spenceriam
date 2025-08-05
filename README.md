@@ -25,7 +25,7 @@ I thrive at the intersection of technology and creativity, using digital tools t
   <tr>
     <td><b>📝 Spec2Dev</b></td>
     <td><b>🏋️ Express Circuit</b></td>
-    <td><b>🗺️ AtlasDraft</b></td>
+    <td><b>💻 Know-Repo</b></td>
   </tr>
   <tr>
     <td><b>🧵 Fila-manager</b></td>
