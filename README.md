@@ -19,7 +19,7 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 </div>
 
-### 🧠 Currently Learning
+## 🧠 Currently Learning
 
 * **Prompt Engineering with No-Code Tools**: I'm exploring tools like Leap.new, Replit, Bolt.new, and Lovable.dev to master prompt engineering and generative AI development.
 * **Local LLMs for Coding**: I'm diving into local large language models (LLMs) to understand their capabilities for coding tasks.
