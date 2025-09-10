@@ -19,20 +19,14 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 </div>
 
-## 🚀 Current Projects
+### 🧠 Currently Learning
 
-<table>
-  <tr>
-    <td><b>📝 Spec2Dev</b></td>
-    <td><b>🏋️ Express Circuit</b></td>
-    <td><b>💻 Know-Repo</b></td>
-  </tr>
-  <tr>
-    <td><b>🧵 Fila-manager</b></td>
-    <td><b>🕸️ Spencer-Web</b></td>
-    <td><b>🦁 Lion Mystic</b></td>
-  </tr>
-</table>
+* **Prompt Engineering with No-Code Tools**: I'm exploring tools like Leap.new, Replit, Bolt.new, and Lovable.dev to master prompt engineering and generative AI development.
+* **Local LLMs for Coding**: I'm diving into local large language models (LLMs) to understand their capabilities for coding tasks.
+* **Cloud-Based Coding Terminals**: I'm focused on using advanced cloud-based coding terminals like Claude Code, OpenCode, and Gemini CLI to enhance my development workflow.
+* **Advanced Prompting Techniques**: I'm refining my prompting skills by combining methodologies like BMAD and spec-driven development with my experience in agentic AI.
+* **AI for Personal Projects**: I'm leveraging my new skills to build my own projects, with the goal of transitioning from my current 9-5 role.
+* **AI Tech and Tools**: I'm staying up-to-date with the latest developments in AI technology, including new tools, models, and industry news.
 
 ## 🔧 Tools & Technologies
 
