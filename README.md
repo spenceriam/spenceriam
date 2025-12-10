@@ -32,11 +32,12 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 <div align="center">
 
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-2B9EBC?style=flat-square)
-![Warp.dev](https://img.shields.io/badge/Warp-6610f2?style=flat-square)
+![Zed Editor](https://img.shields.io/badge/Zed_Editor-222222?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
+![Warp Terminal](https://img.shields.io/badge/Warp_Terminal-6610f2?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-3D4599?style=flat-square)
-![Von.dev](https://img.shields.io/badge/Von.dev-000000?style=flat-square)
+![Factory Droid](https://img.shields.io/badge/Factory_Droid-000000?style=flat-square)
+![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF5733?style=flat-square)
 ![Bolt.new](https://img.shields.io/badge/Bolt.new-FFA500?style=flat-square)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
