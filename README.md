@@ -78,7 +78,8 @@ I herd AI agents, build strange and useful things, and turn coffee into code. Pa
 
 <div align="center">
 
-"Things are only impossible until they're not." - Captain Jean-Luc Picard
+"You hit me. Picard never hit me." - Q
+"I'm not Picard." - Commander Benjamin Sisko
 
 </div>
 <!--
