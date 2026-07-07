@@ -34,7 +34,6 @@ I herd AI agents, build strange and useful things, and turn coffee into code. Pa
 * [**Jelico**](https://github.com/spenceriam/jelico) — an agentic AI harness that helps get things done.
 * [**ARMtemp**](https://github.com/spenceriam/armtemp) — native ARM64 temperature monitor for Snapdragon X / X2 processors on Windows on ARM
 
-> 🔒 **Private repos** — coming soon for public review. Stay tuned.
 
 ## 🔧 Tools & Technologies
 
