@@ -40,7 +40,7 @@ I herd AI agents, build strange and useful things, and turn coffee into code. Pa
 
 <div align="center">
 
-![Zcode](https://img.shields.io/badge/Zcode-6E56CF?style=flat-square)
+![ZCode](https://img.shields.io/badge/ZCode-6E56CF?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-3D4599?style=flat-square)
 ![Claude Desktop](https://img.shields.io/badge/Claude%20Desktop-3D4599?style=flat-square)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
