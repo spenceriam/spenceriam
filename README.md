@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Version](https://img.shields.io/badge/Version-37-blue?style=for-the-badge)](https://github.com/spenceriam)
-[![Role](https://img.shields.io/badge/Role-Creator-orange?style=for-the-badge)](https://github.com/spenceriam)
+[![Role](https://img.shields.io/badge/Role-Herder%20of%20AI-orange?style=for-the-badge)](https://github.com/spenceriam)
 [![Star Trek](https://img.shields.io/badge/Star%20Trek-TNG-red?style=for-the-badge)](https://github.com/spenceriam)
 [![Consuming](https://img.shields.io/badge/Consuming-Coffee-8B4513?style=for-the-badge)](https://github.com/spenceriam)
 
@@ -11,7 +11,7 @@
 
 ## 🧙‍♂️ Who Am I?
 
-I thrive at the intersection of technology and creativity, using digital tools to bring ideas into the physical world and connecting humans with the technologies that empower them.
+I herd AI agents, build strange and useful things, and turn coffee into code. Part maker, part prompt-wrangler, fully caffeinated — translating between humans and the machines learning to think alongside us.
 
 <div align="center">
   
@@ -21,25 +21,33 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 ## 🧠 Currently Learning
 
-* **Prompt Engineering with No-Code Tools**: I'm exploring tools like Leap.new, Replit, Bolt.new, and Lovable.dev to master prompt engineering and generative AI development.
-* **Local LLMs for Coding**: I'm diving into local large language models (LLMs) to understand their capabilities for coding tasks.
-* **Cloud-Based Coding Terminals**: I'm focused on using advanced cloud-based coding terminals like Claude Code, OpenCode, and Gemini CLI to enhance my development workflow.
-* **Advanced Prompting Techniques**: I'm refining my prompting skills by combining methodologies like BMAD and spec-driven development with my experience in agentic AI.
-* **AI for Personal Projects**: I'm leveraging my new skills to build my own projects, with the goal of transitioning from my current 9-5 role.
-* **AI Tech and Tools**: I'm staying up-to-date with the latest developments in AI technology, including new tools, models, and industry news.
+* **Prompt Engineering & AI Agents**: Going deep on prompt engineering, agentic AI workflows, and the tooling that turns models into genuinely useful collaborators.
+* **Local LLMs for Coding**: Diving into local large language models (LLMs) to understand their capabilities for coding tasks.
+* **AI-Assisted Development**: Leaning more on cloud-based AI coding tools than terminals these days (terminals still have a place in the workflow) to ship real projects faster.
+* **Advanced Prompting Techniques**: Refining my prompting by combining methodologies like BMAD and spec-driven development with hands-on experience in agentic AI.
+* **AI for Personal Projects**: Leveraging these skills to build my own projects, with the goal of transitioning from my current 9-5 role.
+* **AI Tech and Tools**: Staying up-to-date with the latest developments in AI technology, including new tools, models, and industry news.
+
+## 🚀 Current Projects
+
+* [**Impulse**](https://github.com/spenceriam/impulse) — a brutally minimal terminal interface for AI-assisted software development.
+* [**Jelico**](https://github.com/spenceriam/jelico) — an agentic AI harness that helps get things done.
+* [**ARMtemp**](https://github.com/spenceriam/armtemp) — *(coming soon to public)*
+
+> 🔒 **Private repos** — coming soon for public review. Stay tuned.
 
 ## 🔧 Tools & Technologies
 
 <div align="center">
 
-![Zed Editor](https://img.shields.io/badge/Zed_Editor-222222?style=flat-square)
-![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=flat-square)
-![Warp Terminal](https://img.shields.io/badge/Warp_Terminal-6610f2?style=flat-square)
+![Zcode](https://img.shields.io/badge/Zcode-6E56CF?style=flat-square)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-3D4599?style=flat-square)
-![Factory Droid](https://img.shields.io/badge/Factory_Droid-000000?style=flat-square)
+![Claude Desktop](https://img.shields.io/badge/Claude%20Desktop-3D4599?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square)
+![Impulse](https://img.shields.io/badge/Impulse-6366F1?style=flat-square)
+![TRML](https://img.shields.io/badge/TRML-1F2937?style=flat-square)
+![Claude Design](https://img.shields.io/badge/Claude%20Design-C96442?style=flat-square)
 ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat-square&logo=google&logoColor=white)
-![Lovable.dev](https://img.shields.io/badge/Lovable.dev-FF5733?style=flat-square)
-![Bolt.new](https://img.shields.io/badge/Bolt.new-FFA500?style=flat-square)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 ![Shapr3D](https://img.shields.io/badge/Shapr3D-FF0000?style=flat-square)
 ![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-88CE02?style=flat-square)
@@ -62,7 +70,7 @@ I thrive at the intersection of technology and creativity, using digital tools t
 
 [![X](https://img.shields.io/badge/X-black?style=flat-square&logo=x&logoColor=white)](https://x.com/spencer_i_am)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencerfrancisco/)
-[![Lion Mystic](https://img.shields.io/badge/Lion%20Mystic-FFA500?style=flat-square)](https://lionmystic.com/)
+[![spencer.build](https://img.shields.io/badge/spencer.build-FFA500?style=flat-square)](https://spencer.build)
 
 </div>
 
